@@ -1,89 +1,63 @@
-# Hi, I'm David Quayefio
+````markdown
+# Hi, I'm David Quayefio 👋
 
-### Aspiring Machine Learning Engineer | AI & ML Researcher | Quantitative Researcher | Statistician
+### Aspiring Machine Learning Engineer | Python • Machine Learning • Statistics
 
-I am a **Statistics graduate** developing expertise in **Machine Learning, Artificial Intelligence, Statistical Modeling, and Quantitative Research**.
+I'm a Statistics graduate building my career in **Machine Learning Engineering**.
 
-My background in Statistics gives me a strong foundation in **probability, statistical inference, data analysis, and mathematical modeling**. I am building on this foundation by developing practical skills in machine learning engineering, artificial intelligence, and software development.
+I enjoy using statistics, programming, and machine learning to understand data and build practical solutions to real-world problems. My statistical background gives me a strong foundation in probability, statistical modeling, and data analysis, which I'm building on through Python and machine learning engineering.
 
-My goal is to build **reliable, data-driven systems** that can transform complex data into useful predictions, insights, and decisions. I am particularly interested in problems where statistical thinking, machine learning, and computational methods can work together.
-
----
-
-## Areas of Focus
-
-My current technical and research interests include:
-
-* **Machine Learning Engineering**
-  Building, evaluating, and deploying machine learning models for practical applications.
-
-* **Artificial Intelligence & Deep Learning**
-  Exploring neural networks and modern machine learning approaches for solving complex problems.
-
-* **Statistical Modeling & Predictive Analytics**
-  Applying statistical methods to understand data, identify patterns, and develop predictive models.
-
-* **Quantitative Research**
-  Using statistical, mathematical, and computational techniques to investigate data-driven problems.
-
-* **Financial & Time-Series Modeling**
-  Studying financial data, temporal patterns, forecasting, and quantitative modeling.
-
-* **AI & Machine Learning Research**
-  Exploring methods, techniques, and applications that improve the development and use of intelligent systems.
-
-* **MLOps & Machine Learning Deployment**
-  Learning how to move machine learning models from experimentation into reliable and usable applications.
-
-* **Data Engineering & SQL**
-  Working with structured data, databases, data processing, and the foundations required for machine learning systems.
+I'm currently focused on developing the skills needed to take machine learning projects beyond the notebook — from preparing data and building models to testing, deployment, and maintaining reliable ML systems.
 
 ---
 
-## Technical Stack
+## 🧠 What I'm Focused On
 
-### Programming Languages
+- 🤖 Machine Learning Engineering
+- 🐍 Python
+- 📊 Statistical & Predictive Modeling
+- 🔧 Feature Engineering
+- 🧠 Machine Learning & Deep Learning
+- 📈 Time Series Forecasting
+- 🚀 Model Deployment
+- ⚙️ MLOps
+- 🗄️ Data Processing & SQL
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat\&logo=r\&logoColor=white)
+---
 
-I primarily use **Python** for machine learning, data analysis, and application development. I also use **SQL** for working with structured data and databases, and **R** for statistical analysis and related applications.
+## 🛠️ Technologies & Tools
 
-### Machine Learning & Data Science
+### Programming & Data
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-These tools support my work with **data manipulation, exploratory analysis, statistical modeling, machine learning, and deep learning**.
+### Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ### Engineering & Deployment
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-
-I use these technologies to support **version control, reproducible development, containerisation, APIs, and machine learning application deployment**.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
-## What I Build
+## 🚀 What I'm Building
 
-I am focused on developing practical projects that connect **statistics, machine learning, and software engineering**.
-
-Rather than focusing only on model training, I aim to understand the broader process involved in developing a useful machine learning system.
-
-A typical workflow includes:
+I'm building practical machine learning projects that demonstrate the complete ML workflow:
 
 ```text
 Data
   ↓
-Data Cleaning & Exploration
+Data Cleaning & Preparation
   ↓
-Statistical Analysis
+Exploratory Data Analysis
   ↓
 Feature Engineering
   ↓
@@ -91,68 +65,115 @@ Model Development
   ↓
 Model Evaluation
   ↓
-Application Development
-  ↓
-Model Deployment
+Deployment
   ↓
 Monitoring & Improvement
-```
+````
 
-This approach helps me understand not only **how to build a model**, but also how the model fits into a complete data-driven application.
+My goal is to build projects that demonstrate not only whether a model works, but also how it can be developed into a reliable and maintainable software system.
 
 ---
 
-## Research & Technical Interests
+## 📂 Projects
 
-I am particularly interested in areas where **statistical theory, machine learning, mathematics, and computation** intersect.
+Some of the areas I'm working on include:
 
-Some of my key interests include:
+| Project                   | Focus                                  |
+| ------------------------- | -------------------------------------- |
+| Customer Churn Prediction | Classification & Predictive Modeling   |
+| Credit Risk Prediction    | Machine Learning & Risk Modeling       |
+| Fraud Detection           | Imbalanced Classification              |
+| Time Series Forecasting   | Statistical & Machine Learning Methods |
+| Sentiment Analysis API    | NLP & Model Deployment                 |
+| End-to-End ML Pipeline    | Machine Learning Engineering & MLOps   |
 
-* Statistical learning
-* Machine learning algorithms
-* Predictive modeling
-* Deep learning
-* Time-series analysis
-* Financial modeling
-* Quantitative research
-* Statistical inference
-* Data-driven decision systems
-* Machine learning systems
-* Model deployment
+More projects will be added as I continue learning and building.
+
+---
+
+## 📚 Areas I'm Learning
+
+### Machine Learning
+
+* Supervised Learning
+* Unsupervised Learning
+* Feature Engineering
+* Model Selection
+* Hyperparameter Tuning
+* Model Evaluation
+* Ensemble Methods
+
+### Statistics
+
+* Probability
+* Statistical Inference
+* Regression
+* Hypothesis Testing
+* Time Series Analysis
+* Statistical Modeling
+
+### Machine Learning Engineering
+
+* Software Engineering for ML
+* Model Deployment
+* REST APIs
+* Docker
+* Testing
 * MLOps
-* Data engineering
-
-I am also interested in understanding the assumptions behind models, how they perform under different conditions, and how they can be applied responsibly to real-world problems.
+* Reproducible ML Workflows
 
 ---
 
-## My Approach
+## 🔬 My Approach
 
-My approach to machine learning is grounded in **understanding the problem before selecting the model**.
+I believe good machine learning starts with understanding the problem and the data before choosing a model.
 
-I place emphasis on:
+My approach is:
 
-* Understanding the underlying data
-* Applying appropriate statistical methods
-* Building meaningful features
-* Selecting suitable models
-* Evaluating models using appropriate metrics
-* Understanding model limitations
-* Writing reproducible code
-* Developing maintainable systems
-* Deploying models where appropriate
+**Understand the problem → Understand the data → Build carefully → Validate properly → Deploy responsibly → Keep improving.**
 
-The objective is not simply to produce a model with good performance. It is to understand whether the model is **valid, useful, reproducible, and suitable for its intended application**.
+I'm particularly interested in writing clean, reproducible code and developing machine learning systems that can be used outside of a notebook.
 
 ---
 
-## Current Direction
+## 📈 Currently Learning
 
-I am continuing to develop my capabilities toward becoming a **Machine Learning Engineer with strong foundations in Statistics and quantitative research**.
+* Advanced Machine Learning
+* Deep Learning with PyTorch
+* Machine Learning Engineering
+* MLOps
+* Model Deployment
+* Software Engineering for ML
+* Time Series Modeling
+* Cloud & Production ML
 
-My longer-term direction combines:
+---
 
-**Statistics + Machine Learning + Software Engineering + Quantitative Research**
+## 🎯 My Goal
 
-I use my projects and research work to progressively strengthen these areas and develop practical experience in building complete machine learning systems.
+My goal is to become a strong **Machine Learning Engineer** who can combine statistical thinking with software engineering to build practical, reliable machine learning systems.
 
+I'm focused on learning through consistent practice, building real projects, and continuously improving my technical skills.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with people working in:
+
+* Machine Learning
+* Artificial Intelligence
+* Data & Technology
+* Software Engineering
+* MLOps
+
+If you're working on interesting technical problems or building something with machine learning, feel free to connect.
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Learning. Building. Improving.**
+
+```
+```
