@@ -1,4 +1,4 @@
-````markdown
+
 # Hi, I'm David Quayefio 👋
 
 ### Aspiring Machine Learning Engineer | Python • Machine Learning • Statistics
